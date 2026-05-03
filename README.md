@@ -1,6 +1,6 @@
 ---
 title: Deutsch AI Tutor
-emoji: 🇩🇪
+emoji: 📚
 colorFrom: blue
 colorTo: red
 sdk: streamlit
