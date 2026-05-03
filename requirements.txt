@@ -1,5 +1,3 @@
 streamlit
 gTTS
-SpeechRecognition
-language-tool-python
 streamlit-mic-recorder
