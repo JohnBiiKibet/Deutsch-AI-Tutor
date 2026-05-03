@@ -1,3 +1,15 @@
+---
+title: Deutsch AI Tutor
+emoji: 🇩🇪
+colorFrom: blue
+colorTo: red
+sdk: streamlit
+app_file: app.py
+pinned: false
+---
+
+
+
 # 🤖 Deutsch AI Tutor
 
 **Deutsch AI Tutor** is a Python-based web application built with [Streamlit](https://streamlit.io) designed to help you practice German reading, listening, and writing skills.
